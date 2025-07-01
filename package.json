@@ -1,0 +1,9 @@
+{
+  "name": "egor-personal-website",
+  "version": "1.0.0",
+  "description": "Personal website for Egor",
+  "scripts": {
+    "build": "echo 'No build needed for static site'",
+    "start": "echo 'Static site ready'"
+  }
+}
